@@ -4,31 +4,31 @@
 
 ## Gender: female
 
-## NickName: hachuu💋
-
 ## Interest thing
 
-- coding
-- searching & sharing
-- keeping my journal/diary
-- studying English
-- traveling
-- listening music
-- watching movie
-- cooking
+- coding 🖥
+- searching & sharing 🔍
+- keeping my journal/diary 📒
+- studying English 📖
+- traveling ✈🚄
+- listening music 🎶
+- watching movie 🎬
+- cooking 🍳
+- tennis 🏸
 
 ## Web Development
 
-* Javascript
-* Angular
-* React
-* Typescript
-* Nodejs
-* Next
-* JAVA
-* SQL
-* HTML/CSS
-* Spring
+
+* ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+* ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=black) 
+* ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
+* ![Typescript Badge](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=black) 
+* ![Nodejs Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black) 
+* ![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white) 
+* ![JAVA Badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=black) ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+* ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) 
+* ![HTML5 Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=black) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black)
+* ![Github Badge](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) 
 
 ## Project
 <details open>
@@ -49,6 +49,10 @@
 | 2015/03 ~ 2015/06 | 제주항공 중국 결제 - javascript, Java 개발                   |
 
 ## 주요 활동 이력
+### 트레드링스 홈페이지 물류 솔루션 리드 개발자
+1. [트레드링스 홈페이지](https://www.tradlinx.com/) 
+2. [쉽고 (Shipgo)](https://shipgo.tradlinx.com/)
+    
 ### 국내 메이저 항공사 홈페이지 예매 시스템 개발
 1. 대한항공
 - [메인 https://www.koreanair.com](https://www.koreanair.com/)
@@ -62,9 +66,6 @@
 - [예매 PC형 https://www.jejuair.net/jejuair/kr/com/jeju/ibe/availInit.do](https://www.jejuair.net/jejuair/kr/com/jeju/ibe/availInit.do)
 - [예매 Mobile형 https://www.jejuair.net/jejuair/kr/mobile/booking/intAvail.do](https://www.jejuair.net/jejuair/kr/mobile/booking/intAvail.do)
 
-### 트레드링스 홈페이지 물류 솔루션 리드 개발자
-1. [트레드링스 홈페이지](https://www.tradlinx.com/) 
-2. [쉽고 (Shipgo)](https://shipgo.tradlinx.com/)
 
   </div>
 </details>
