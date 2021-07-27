@@ -1,10 +1,4 @@
-# Who am I?
-
-## Name: Song HaYoung
-
-## Gender: female
-
-## Interest thing
+<!-- ## Interest thing
 
 - coding 🖥
 - searching & sharing 🔍
@@ -14,7 +8,7 @@
 - listening music 🎶
 - watching movie 🎬
 - cooking 🍳
-- tennis 🏸
+- tennis 🏸 -->
 
 ## Web Development
 
@@ -47,24 +41,6 @@
 | 2016/02 ~ 2016/11 | 아시아나항공 선호좌석 유료서비스 구축 - Spring, Maven, javascript, Java, 오라클 SQL |
 | 2015/06 ~ 2016/02 | 아시아나항공 미국 WCAG 장차법 구축 - Spring, Maven, javascript, Java, 오라클 SQL, 웹접근성 |
 | 2015/03 ~ 2015/06 | 제주항공 중국 결제 - javascript, Java 개발                   |
-
-## 주요 활동 이력
-### 트레드링스 홈페이지 물류 솔루션 리드 개발자
-1. [트레드링스 홈페이지](https://www.tradlinx.com/) 
-2. [쉽고 (Shipgo)](https://shipgo.tradlinx.com/)
-    
-### 국내 메이저 항공사 홈페이지 예매 시스템 개발
-1. 대한항공
-- [메인 https://www.koreanair.com](https://www.koreanair.com/)
-- [예매 https://www.koreanair.com/booking/search](https://www.koreanair.com/booking/search)
-
-2. 아시아나항공
-- [메인 https://flyasiana.com/C/KR/KO/index](https://flyasiana.com/C/KR/KO/index)
-- [예매 https://flyasiana.com/I/KR/KO/RevenueRegistTravel.do](https://flyasiana.com/I/KR/KO/RevenueRegistTravel.do)
-
-3. 제주항공
-- [예매 PC형 https://www.jejuair.net/jejuair/kr/com/jeju/ibe/availInit.do](https://www.jejuair.net/jejuair/kr/com/jeju/ibe/availInit.do)
-- [예매 Mobile형 https://www.jejuair.net/jejuair/kr/mobile/booking/intAvail.do](https://www.jejuair.net/jejuair/kr/mobile/booking/intAvail.do)
 
 
   </div>
