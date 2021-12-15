@@ -26,7 +26,9 @@
 * ![HTML5 Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=black) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black)
 * ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Github Badge](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) 
 * ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white)
-<!-- * ![Rxjs Badge](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=flat-square&logo=RxJS&logoColor=blueviolet)  -->
+* ![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+<!-- * ![FireStore](https://img.shields.io/badge/FireStore-FFCA28?style=flat-square&logo=FireStore&logoColor=white) -->
+
 ## 현재 프로젝트
 <details open>
   <summary>2021 프로젝트</summary>
