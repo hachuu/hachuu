@@ -41,7 +41,7 @@
 | 2021/04 ~ 04 | 수에즈 운하 선박 상태보여지는 event 페이지 구현 [관련글](https://www.tradlinx.com/blog/market-trend/%ed%8a%b9%ec%a7%91-%ec%97%90%eb%b2%84%ea%b8%b0%eb%b8%90%ec%9d%80-%ec%a7%80%ea%b8%88-%ec%88%98%ec%97%90%ec%a6%88%ec%9a%b4%ed%95%98-%ec%82%ac%ea%b3%a0%ec%99%80-%ec%97%90%eb%b2%84%ea%b8%b0%eb%b8%90/) |
 | 2021/07 ~ 07 | Angular 7 => 8 migration |
 | 2021/09 ~ 11 (2개월) | Angular 12 트레드링스 통합회원관리 및 SSO로그인 작업 |
-| 2021/10 ~ 12 (2개월) | React 17 사이드 프로젝트(모바일청첩장) [Source](https://github.com/hachuu/wedding-invitation) / [Page](wedding-invitation-2090a.web.app/) |
+| 2021/10 ~ 12 (2개월) | React 17 사이드 프로젝트(모바일청첩장) [Source](https://github.com/hachuu/wedding-invitation) / [Page](https://wedding-invitation-2090a.web.app/) |
 | 2021/11 ~ 11 (1개월) | 트레드링스 홈페이지 접근성 작업 |
 | 2021/12 ~ 진행중 | Angular 12 트레드링스 Zimgo 프로젝트 |
 | 2021/12 ~ 12 | Angular 8 [2022 안전 운임제](https://www.tradlinx.com/container-inland-tariff) |
