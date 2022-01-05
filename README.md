@@ -31,6 +31,18 @@
 
 ## 현재 프로젝트
 <details open>
+  <summary>2022 프로젝트</summary>
+  <div markdown="1">
+    
+| 기간              | 내용                                                         |
+| ----------------- | ------------------------------------------------------------ |
+| 2022/01 ~ 현재  | Zimgo 신규 프로젝트 개발 |
+| 2022/01 ~ 03    | [Angular animation 실습](https://github.com/hachuu/Angular-animation) |
+
+    
+  </div>
+</details>
+<details>
   <summary>2021 프로젝트</summary>
   <div markdown="1">
     
