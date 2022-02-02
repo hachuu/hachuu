@@ -38,6 +38,7 @@
 | ----------------- | ------------------------------------------------------------ |
 | 2022/01 ~ 현재  | Zimgo 신규 프로젝트 개발 |
 | 2022/01 ~ 03    | [Angular animation 실습(element 생성)](https://github.com/hachuu/Angular-animation) |
+| 2022/02 ~ 현재  | flutter로 만드는 가계부 앱 |
 
     
   </div>
