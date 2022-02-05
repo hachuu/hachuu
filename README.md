@@ -27,7 +27,7 @@
 * ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Github Badge](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) 
 * ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white)
 * ![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
-<!-- * ![FireStore](https://img.shields.io/badge/FireStore-FFCA28?style=flat-square&logo=FireStore&logoColor=white) -->
+* ![FireStore](https://img.shields.io/badge/firestore-FFCA28?style=flat-square&logo=FireStore&logoColor=white)
 
 ## 현재 프로젝트
 <details open>
