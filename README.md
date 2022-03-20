@@ -1,5 +1,6 @@
 <!-- ## Interest thing
 
+[트레드링스 송하영 인터뷰](https://team.jumpit.co.kr/732c505c-e5ab-4eb1-a417-ec874f57a5e7)
 - coding 🖥
 - searching & sharing 🔍
 - keeping my journal/diary 📒
