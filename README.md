@@ -1,4 +1,7 @@
+<img width="245" alt="스크린샷 2022-08-02 오후 10 42 54" src="https://user-images.githubusercontent.com/65321592/182389597-bfd129d6-a080-4165-993a-06020bb00b86.png">
+
 [트레드링스 송하영 인터뷰](https://team.jumpit.co.kr/732c505c-e5ab-4eb1-a417-ec874f57a5e7)
+
 
 <!-- ## Interest thing
 
