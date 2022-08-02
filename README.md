@@ -41,9 +41,9 @@
     
 | 기간              | 내용                                                         |
 | ----------------- | ------------------------------------------------------------ |
-| 2022/01 ~ 현재  | Zimgo 신규 프로젝트 개발 |
-| 2022/01 ~ 03    | [Angular animation 실습(element 생성)](https://github.com/hachuu/Angular-animation) |
-| 2022/07 ~ | svelte 실습 |
+| 2022/01 ~ 현재  | 트레드링스 물류 협업 툴 Zimgo 신규 프로젝트 개발중에 있습니다. 10월 런칭 예정으로 바쁜 나날을 보내고 있습니다. |
+| 2022/01 ~ 현재    | [Angular 실무에 쓰기 좋고 에디터용 element 생성하고 있습니다](https://github.com/hachuu/Angular-animation) |
+| 2022/07 ~ | [개인 스터디로 svelte 공부를 하고 있습니다.](https://github.com/hachuu/svelte) |
 <!--| 2022/02 ~ 현재  | [flutter로 만드는 가계부 앱](https://github.com/hachuu/Flutter) |-->
 
     
