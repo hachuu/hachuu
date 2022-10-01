@@ -33,15 +33,16 @@
 * ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white)
 * ![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 * ![FireStore](https://img.shields.io/badge/firestore-FFCA28?style=flat-square&logo=FireStore&logoColor=white)
+* ![Svelte Badge](https://img.shields.io/badge/svelte-FF3E00.svg?style=flat-square&logo=svelte&logoColor=white) 
 
-## 현재 프로젝트
-<details open>
+## 진행형 프로젝트
+<details>
   <summary>2022 프로젝트</summary>
   <div markdown="1">
     
 | 기간              | 내용                                                         |
 | ----------------- | ------------------------------------------------------------ |
-| 2022/01 ~ 현재  | 트레드링스 물류 협업 툴 Zimgo 신규 프로젝트 개발중에 있습니다. 10월 런칭 예정으로 바쁜 나날을 보내고 있습니다. |
+| 2022/01 ~ 현재  | 트레드링스 물류 협업 툴 Zimgo 신규 프로젝트 개발중에 있습니다(프로젝트, 기획, 설계, 개발 담당) Angular 14 |
 | 2022/01 ~ 현재    | [Angular 실무에 쓰기 좋고 에디터용 element 생성하고 있습니다](https://github.com/hachuu/Angular-animation) |
 | 2022/07 ~ | [개인 스터디로 svelte 공부를 하고 있습니다.](https://github.com/hachuu/svelte) |
 <!--| 2022/02 ~ 현재  | [flutter로 만드는 가계부 앱](https://github.com/hachuu/Flutter) |-->
