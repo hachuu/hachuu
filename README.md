@@ -17,6 +17,7 @@
 * ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
 * ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=black) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=flat-square&logo=reactivex&logoColor=white)
 * ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
+* ![Vue Badge](https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 * ![Typescript Badge](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=black) 
 * ![Nodejs Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black) 
 * ![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white) 
