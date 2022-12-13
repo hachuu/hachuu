@@ -29,6 +29,10 @@
 * ![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white) ![FireStore](https://img.shields.io/badge/firestore-FFCA28?style=flat-square&logo=FireStore&logoColor=white)
 * ![Svelte Badge](https://img.shields.io/badge/svelte-FF3E00.svg?style=flat-square&logo=svelte&logoColor=white) 
 
+## 2023년 현재는 무엇을 하고 있나요?
+- FE : react, vue pj 진행중
+- BE : java, spring, graddle, sql spec의 pj 운영 & 개발
+
 ## Project History
 
 ### 최근 2년간 작업
@@ -42,7 +46,7 @@
     
 | 기간              | 내용                                                         |
 | ----------------- | ------------------------------------------------------------ |
-| 2022/07 ~ 진행중 | [개인 스터디로 svelte 공부를 하고 있습니다.](https://github.com/hachuu/svelte) |
+| 2022/07 ~ 10 | [개인 스터디, 토이프로젝트 진행](https://github.com/hachuu/svelte) |
 | 2022/01 ~ 10  | 트레드링스 물류 협업 툴 Zimgo 프로젝트 개발 (프론트 리드, 구조 설계, 개발 담당) Angular 14 |
 | 2022/01 ~ 09    | [Angular 실무에 쓰기 좋은 에디터용 element 생성](https://github.com/hachuu/Angular-animation) |
 | 2022/02 ~ 03  | [flutter로 만드는 가계부 앱](https://github.com/hachuu/Flutter) |
@@ -58,6 +62,8 @@
 
   </div>
 </details>
+
+### 경력기술요약
 
 <details>
   <summary>프로젝트 이력 보기</summary>
