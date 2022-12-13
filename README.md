@@ -46,7 +46,7 @@
     
 | 기간              | 내용                                                         |
 | ----------------- | ------------------------------------------------------------ |
-| 2022/07 ~ 10 | [개인 스터디, 토이프로젝트 진행](https://github.com/hachuu/svelte) |
+| 2022/07 ~ 10 | Svelte [개인 스터디, 토이프로젝트 진행](https://github.com/hachuu/svelte) |
 | 2022/01 ~ 10  | 트레드링스 물류 협업 툴 Zimgo 프로젝트 개발 (프론트 리드, 구조 설계, 개발 담당) Angular 14 |
 | 2022/01 ~ 09    | [Angular 실무에 쓰기 좋은 에디터용 element 생성](https://github.com/hachuu/Angular-animation) |
 | 2022/02 ~ 03  | [flutter로 만드는 가계부 앱](https://github.com/hachuu/Flutter) |
