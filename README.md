@@ -5,8 +5,8 @@
 - keeping my journal/diary 📒
 - studying Something (english/dev/...) 📝
 - traveling ✈🚄
-- listening music 🎶
-- watching movie 🎬
+- listening to music 🎶
+- watching a movie 🎬
 - cooking 🍳
 - tennis 🏸
 - reading 📖
