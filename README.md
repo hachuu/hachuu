@@ -33,6 +33,15 @@
 - FE : react, vue pj 진행중
 - BE : java, spring, graddle, sql spec의 pj 운영 & 개발
 - study : svelte, vue3, linux, k8s, css
+- English : opic IH (02/04)
+
+| 기간              | 내용                                                         |
+| ----------------- | ------------------------------------------------------------ |
+| 2023/12 ~ 01 | vanila js => react 16 으로 프로젝트 포팅 작업 |
+| 2023/01 ~ 02 | React GiGa Genie 소스 분석, 오류 수정 |
+| 2022/02 ~ 03 | BE - 리눅스(사용), 쿠버네티스(개념) 인강, 스터디 진행 중, GCMS db 구조 파악하기 |
+| 2022/02 ~ 미정 | FE - Vue3 토이프로젝트로 프레임워크 구조 파악, 추후 GiGA GENIE 연동도 해보기 |
+| 2022/03 | 미정 |
 
 ## Project History
 
