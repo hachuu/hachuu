@@ -10,6 +10,7 @@
 - cooking 🍳
 - tennis 🏸
 - [reading](https://pedia.watcha.com/ko-KR/users/87Gv7pR6D5E6o/contents/books) 📖
+- console game (Nintendo, PS4) 🎮 
 
 ## Web Development
 
