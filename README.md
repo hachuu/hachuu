@@ -6,10 +6,10 @@
 - studying Something (english/dev/...) 📝
 - traveling ✈🚄
 - listening to music 🎶
-- watching a movie 🎬
+- [watching a movie](https://pedia.watcha.com/ko-KR/users/87Gv7pR6D5E6o/contents/movies) 🎬
 - cooking 🍳
 - tennis 🏸
-- reading 📖
+- [reading](https://pedia.watcha.com/ko-KR/users/87Gv7pR6D5E6o/contents/books) 📖
 
 ## Web Development
 
