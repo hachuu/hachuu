@@ -44,6 +44,9 @@
 | 2022/02 ~ 미정 | FE - Vue3 토이프로젝트로 프레임워크 구조 파악, 추후 GiGA GENIE 연동도 해보기 |
 | 2022/03 | 미정 |
 
+
+![Visitor Count](https://profile-counter.glitch.me/hachuu/count.svg)
+
 ## Project History
 
 ### 최근 2년간 작업
