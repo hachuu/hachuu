@@ -33,7 +33,7 @@
 ## 2023년 현재는 무엇을 하고 있나요?
 - FE : react, vue pj 진행중
 - BE : java, spring, graddle, sql spec의 pj 운영 & 개발
-- study : svelte, vue3, linux, k8s, css
+- study : svelte, vue3, linux, k8s, css, chatGPT
 - English : opic IH (02/04)
 
 | 기간              | 내용                                                         |
