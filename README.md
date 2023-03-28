@@ -42,7 +42,7 @@
 | 2023/01 ~ 02 | React GiGa Genie 소스 분석, 오류 수정 |
 | 2022/02 ~ 03 | BE - 리눅스(사용), 쿠버네티스(개념) 인강, 스터디 진행 중, GCMS db 구조 파악하기 |
 | 2022/02 ~ 미정 | FE - Vue3 토이프로젝트로 프레임워크 구조 파악, 추후 GiGA GENIE 연동도 해보기 |
-| 2022/03 ~ 06 | chatGPT, Deep Learning  |
+| 2022/03 ~ 03 | chatGPT, Deep Learning  |
 | 2022/03 ~ 09 | sqld, sqlp 공부 (잠깐 쉬는 중..) |
 
 
