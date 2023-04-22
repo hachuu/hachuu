@@ -40,10 +40,11 @@
 | ----------------- | ------------------------------------------------------------ |
 | 2023/12 ~ 01 | vanila js => react 16 으로 프로젝트 포팅 작업 |
 | 2023/01 ~ 02 | React GiGa Genie 소스 분석, 오류 수정 |
-| 2022/02 ~ 03 | BE - 리눅스(사용), 쿠버네티스(개념) 인강, 스터디 진행 중, GCMS db 구조 파악하기 |
-| 2022/02 ~ 미정 | FE - Vue3 토이프로젝트로 프레임워크 구조 파악, 추후 GiGA GENIE 연동도 해보기 |
-| 2022/03 ~ 03 | [chatGPT, Deep Learning](https://openai-embedding-completion.vercel.app/)  |
-| 2022/03 ~ 09 | sqld, sqlp 공부 (잠깐 쉬는 중..) |
+| 2023/02 ~ 03 | BE - 리눅스(사용), 쿠버네티스(개념) 인강, 스터디 진행 중, GCMS db 구조 파악하기 |
+| 2023/02 ~ 03 | FE - Vue3 토이프로젝트로 프레임워크 구조 파악, 추후 GiGA GENIE 연동도 해보기 |
+| 2023/03 ~ 12 | [chatGPT, Deep Learning](https://openai-embedding-completion.vercel.app/)  |
+| 2023/04 ~ 10 | 사내 개발 기술 코치 담당 |
+| 2023/03 ~ 09 | sqld, sqlp 공부 (잠깐 쉬는 중..) |
 
 
 ![Visitor Count](https://profile-counter.glitch.me/hachuu/count.svg)
