@@ -1,7 +1,7 @@
 ## Interest thing
 
 - coding 🖥
-- searching & sharing 🔍
+- [searching & sharing](https://github.com/hachuu/developGuide) 🔍
 - keeping my journal/diary 📒
 - studying Something (english/dev/...) 📝
 - traveling ✈🚄
