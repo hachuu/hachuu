@@ -102,8 +102,3 @@
   </div>
 </details>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hachuu&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hachuu&layout=compact=count_private=true)
-![Metrics](https://metrics.lecoq.io/hachuu?template=classic&config.timezone=Asia%2FSeoul&config.animated=true)  
-
-
