@@ -20,7 +20,7 @@
 ## 2023년 현재는 무엇을 하고 있나요?
 - FE : react, vue, next
 - BE : java, spring, graddle, sql spec의 pj 운영 & 개발
-- study : svelte, vue3, linux, k8s, css, chatGPT, aws
+- study : svelte, vue3, linux, k8s, css, chatGPT, aws, python3
 - English : opic IH (02/04)
 
 | 기간              | 내용                                                         |
@@ -31,7 +31,8 @@
 | 2023/02 ~ 05 | FE - Vue2, chatGPT, GiGA GENIE 연동 |
 | 2023/03 ~ 12 | [chatGPT, Deep Learning](https://openai-embedding-completion.vercel.app/)  |
 | 2023/04 ~ 10 | 사내 개발 기술 코치 담당 |
-| 2023/02 ~ 진행중 | FE - Vue3 토이프로젝트로 프레임워크 구조 파악, vuetify 레이아웃 |
+| 2023/02 ~ 06 | FE - Vue3 토이프로젝트로 프레임워크 구조 파악, vuetify 레이아웃 |
+| 2023/07 ~ 진행중 | python, flask로 간단한 웹서비스 구현 |
 | 2023/08 ~ 09 | sqld |
 
 ![Visitor Count](https://profile-counter.glitch.me/hachuu/count.svg)
