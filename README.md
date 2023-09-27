@@ -22,6 +22,8 @@
 - BE : java, spring, graddle, sql spec의 pj 운영 & 개발
 - study : svelte, vue3, linux, k8s, css, chatGPT, aws, python3, mongodb
 - English : opic IH (02/04)
+- 교육 : AWS DevOps 09/18-09/20
+- 자격증 : sqld (10/06)
 
 | 기간              | 내용                                                         |
 | ----------------- | ------------------------------------------------------------ |
