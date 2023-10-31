@@ -10,6 +10,7 @@
 - cooking 🍳
 - tennis 🏸
 - [reading](https://pedia.watcha.com/ko-KR/users/87Gv7pR6D5E6o/contents/books) 📖
+- [writing](https://blog.naver.com/PostList.naver?blogId=money0621&from=postList&categoryNo=83) 📃
 - console game (Nintendo, PS4) 🎮 
 
 ## Web Development
@@ -19,7 +20,7 @@
 
 ## 2023년 현재는 무엇을 하고 있나요?
 - FE : react, vue, next
-- BE : java, spring, graddle, sql spec의 pj 운영 & 개발
+- BE : java, spring, gradle, sql spec의 pj 운영 & 개발
 - study : svelte, vue3, linux, k8s, css, chatGPT, aws, python3, mongodb
 - English : opic IH (02/04)
 - 교육 : AWS DevOps 09/18-09/20
