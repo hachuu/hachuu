@@ -50,18 +50,21 @@
     
 | 기간              | 내용                                                         |
 | ----------------- | ------------------------------------------------------------ |
-| 2021/01           | <img width="245" alt="스크린샷 2022-08-02 오후 10 42 54" src="https://user-images.githubusercontent.com/65321592/182389597-bfd129d6-a080-4165-993a-06020bb00b86.png"> 
-|         ~         |업무 : 트레드링스 Tradlinx Front-end 리드, Angular14, React 17, 웹 솔루션 개발, 유지 보수 / [트레드링스 송하영 인터뷰](https://team.jumpit.co.kr/732c505c-e5ab-4eb1-a417-ec874f57a5e7) |
-|           2022/10 | 개인 : next js Admin / React 17 사이드 프로젝트(모바일청첩장) [Page](https://wedding-invitation-2090a.web.app/) / Svelte [개인 스터디, 토이프로젝트 진행](https://github.com/hachuu/svelte) |
-| 2019/09 ~ 2020/12 | 대한항공 온라인 개편 - Angular8 SPA, typeScript Front/End 개발,  W3C 웹접근성       |
-| 2019/02 ~ 2019/09 | 제주항공 FareFamily & New Class - javascript, Front/End 개발 |
-| 2018/08 ~ 2019/02 | 아시아나항공 상용 우대 프로젝트 - Spring, Maven, javascript, Java, 오라클 SQL |
-| 2017/06 ~ 2018/08 | 아시아나항공 온라인 개편 - Spring, Maven, javascript, Java, 오라클 SQL |
-| 2017/02 ~ 2017/06 | 아시아나항공 환불 비용절감 프로젝트 - Spring, Maven, javascript, Java, 오라클 SQL |
-| 2016/11 ~ 2017/02 | 아시아나항공 모바일 사용선 개선 - Spring, Maven, javascript, Java, 오라클 SQL |
-| 2016/02 ~ 2016/11 | 아시아나항공 선호좌석 유료서비스 구축 - Spring, Maven, javascript, Java, 오라클 SQL |
-| 2015/06 ~ 2016/02 | 아시아나항공 미국 WCAG 장차법 구축 - Spring, Maven, javascript, Java, 오라클 SQL, 웹접근성 |
-| 2015/03 ~ 2015/06 | 제주항공 중국 결제 - javascript, Java 개발                   |
+| 2021/01 ~ 2022/10 | <img width="245" alt="스크린샷 2022-08-02 오후 10 42 54" src="https://user-images.githubusercontent.com/65321592/182389597-bfd129d6-a080-4165-993a-06020bb00b86.png"> 
+|  | - 업무 : 물류플랫폼 트레드링스 Tradlinx Front-end 리드, Angular14, React17, 웹 솔루션 개발, 유지 보수 / [트레드링스 송하영 인터뷰](https://team.jumpit.co.kr/732c505c-e5ab-4eb1-a417-ec874f57a5e7) |
+|  | - 개인 : next js Admin / React17 사이드 프로젝트(모바일청첩장) [Page](https://wedding-invitation-2090a.web.app/) / Svelte [개인 스터디, 토이프로젝트 진행](https://github.com/hachuu/svelte) |
+|  | - Shipgo, Lingo 서비스 Front-end 운영
+|  | - Zimgo (신규) Front-end 개발 리드 : 10개월 <br>1. 화면 디자인 및 사용자 인터페이스(UI) 개선을 위한 협업을 수행(with 기획자) <br>2. 웹 및 앱 사용자 경험(UX)의 형성 관여(with 디자이너, 퍼블리셔) <br>3. 프로젝트 구조 구축, api 설계 및 개발
+| 2019/09 ~ 2020/12 | 대한항공 온라인 개편 - Angular8 SPA, typeScript Front-End 개발,  W3C 웹접근성 : 1년 3개월 / 대한항공 메인 페이지 개발, 환불 프로세스 담당 개발자 |
+| 2019/02 ~ 2019/09 | 제주항공 FareFamily & New Class - javascript, Front-End 개발 : 7개월 / 기존 제주항공 좌석 클래스 중 세분화된 차등 탑승 클래스 별 구분 화면 개발 |
+| 2015/06 ~ 2019/02 | 아시아나 항공 : 3년 8개월 근무 |
+|  | - 상용 우대 프로젝트 - Spring, Maven, javascript, Java, 오라클 SQL : 6개월 <br> B2B 기업 할인 프로모션 사이트 개발 |
+|  | - 온라인 개편 - Spring, Maven, javascript, Java, 오라클 SQL : 1년 2개월 <br> 항공 예약 사이트 통합 리뉴얼 |
+|  | - 환불 비용절감 프로젝트 - Spring, Maven, javascript, Java, 오라클 SQL : 4개월 <br> 아마데우스 환불 API에서 내부 환불 시스템 연동으로 변경 |
+|  | - 모바일 사용선 개선 - Spring, Maven, javascript, Java, 오라클 SQL : 3개월 <br> 항공 예약 사이트 모바일 웹페이지 리뉴얼 |
+|  | - 선호좌석 유료서비스 구축 - Spring, Maven, javascript, Java, 오라클 SQL : 9개월 <br> 기존 항공 예약 프로세스에 유료좌석 구매 서비스 추가 |
+|  | - 미국 WCAG 장차법 구축 - Spring, Maven, javascript, Java, 오라클 SQL, 웹접근성 : 8개월 <br> 항공 웹사이트 전면 WCAG - AAA등급 장차법 적용 |
+| 2015/03 ~ 2015/06 | 제주항공 중국 결제 - javascript, Java 개발 : 3개월 <br> 결제 시스템 중 중국 pay 연동 추가 ex) UnionPay |
 
 
   </div>
