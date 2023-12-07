@@ -38,8 +38,9 @@
 | 2023/04 ~ 10 | 사내 개발 기술 코치 담당 : java/Vue3 |
 | 2023/02 ~ 06 | FE - Vue3 토이프로젝트로 프레임워크 구조 파악, vuetify 레이아웃 |
 | 2023/07 ~ 진행중 | python, flask로 간단한 웹서비스 구현 |
-| 2023/08 ~ 09 | sqld 자격증 공부 |
+| 2023/08 ~ 09 | sqld 자격증 |
 | 2023/09 ~ 12 | BE 보안성 조치 <br> spring boot, wildfly, dependencies upgrade 처리 |
+| 2023/12 ~ 12 | 기가지니 웹앱 서비스 신규 개발 지원 |
 
 ![Visitor Count](https://profile-counter.glitch.me/hachuu/count.svg)
 
