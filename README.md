@@ -25,16 +25,17 @@
 ## Project History
 
 ### 경력기술요약 2023년
-
-<details>
-  <summary>프로젝트 이력 보기</summary>
-  <div markdown="1">
 - FE : react, vue, next
 - BE : java, spring, gradle, sql spec의 pj 운영 & 개발
 - study : svelte, vue3, linux, k8s, css, chatGPT, aws, python3, mongodb
 - English : opic IH (02/04)
 - 교육 : AWS DevOps 09/18-09/20
 - 자격증 : sqld (10/06)
+
+<details>
+  <summary>프로젝트 이력 보기</summary>
+  <div markdown="1">
+
 
 | 기간              | 내용                                                         |
 | ----------------- | ------------------------------------------------------------ |
