@@ -11,16 +11,24 @@
 - tennis 🏸
 - [reading](https://pedia.watcha.com/ko-KR/users/87Gv7pR6D5E6o/contents/books) 📖
 - [writing](https://blog.naver.com/PostList.naver?blogId=money0621&from=postList&categoryNo=83) 📃
-- console game (Nintendo, PS4) 🎮 
+- console game (Nintendo, PS5) 🎮 
 
 ## Web Development
 |FE        |BE      | +    |
 | ---------|-------- | -----|
 | ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Typescript Badge](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=black) ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=black) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=flat-square&logo=reactivex&logoColor=white) ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=black) ![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white) ![Vue Badge](https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black) ![HTML5 Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=black) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black) ![Svelte Badge](https://img.shields.io/badge/svelte-FF3E00.svg?style=flat-square&logo=svelte&logoColor=white) | ![Nodejs Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black) ![JAVA Badge](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white) ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-ffffff?style=flat-square&logo=PostgreSQL&logoColor=4169E1") ![gradle Badge](https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white") ![springboot Badge](https://img.shields.io/badge/springboot-black?style=flat-square&logo=springboot&logoColor=6DB33F") ![nginx Badge](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white") ![oracle Badge](https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white") | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Github Badge](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26.svg?style=flat-square&logo=gitlab&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white) ![FireStore](https://img.shields.io/badge/firestore-FFCA28?style=flat-square&logo=FireStore&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-gray?style=flat-square&logo=linux&logoColor=yellow) ![AWS](https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white")![Kubernetes](https://img.shields.io/badge/Kubernetes-white?style=flat-square&logo=Kubernetes&logoColor=326CE5")|
 
+## 2024년 ing
+- 작성중...
 
 
-## 2023년 현재는 무엇을 하고 있나요?
+## Project History
+
+### 경력기술요약 2023년
+
+<details>
+  <summary>프로젝트 이력 보기</summary>
+  <div markdown="1">
 - FE : react, vue, next
 - BE : java, spring, gradle, sql spec의 pj 운영 & 개발
 - study : svelte, vue3, linux, k8s, css, chatGPT, aws, python3, mongodb
@@ -42,9 +50,8 @@
 | 2023/09 ~ 12 | BE 보안성 조치 <br> spring boot, wildfly, dependencies upgrade 처리 |
 | 2023/12 ~ 12 | 기가지니 웹앱 서비스 신규 개발 지원 |
 
-![Visitor Count](https://profile-counter.glitch.me/hachuu/count.svg)
-
-## Project History
+  </div>
+</details>
 
 ### 경력기술요약 ~2022
 
@@ -63,4 +70,7 @@
 
   </div>
 </details>
+
+
+![Visitor Count](https://profile-counter.glitch.me/hachuu/count.svg)
 
