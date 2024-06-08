@@ -28,7 +28,7 @@
 | ----------------- | ------------------------------------------------------------ |
 | 2024/01 ~ 05 | 오픈소스 취약점 진단 수정 및 spring boot upgrade 작업 |
 | 2024/03 ~ 03 | spring boot version에 따른 batch 변경 |
-| 2024/05 ~ 06 | AWS CLF-C02 study |
+| 2024/05 ~ 06 | AWS CLF-C02 (AWS Certified Cloud Practitioner certificate) 취득 |
 | 2024/07 ~ 10 | 출산휴가 |
 
   </div>
