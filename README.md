@@ -7,7 +7,7 @@
 - traveling ✈🚄
 - listening to music 🎶
 - [watching a movie](https://pedia.watcha.com/ko-KR/users/87Gv7pR6D5E6o/contents/movies) 🎬
-- cooking 🍳
+- [cooking](https://www.instagram.com/hachu.u.u/) 🍳
 - tennis 🏸
 - [reading](https://pedia.watcha.com/ko-KR/users/87Gv7pR6D5E6o/contents/books) 📖
 - [writing](https://blog.naver.com/PostList.naver?blogId=money0621&from=postList&categoryNo=83) 📃
