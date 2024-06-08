@@ -20,9 +20,6 @@
 
 ## 올해 ing
 
-<details>
-  <summary>2024</summary>
-  <div markdown="1">
 
 | 기간              | 내용                                                         |
 | ----------------- | ------------------------------------------------------------ |
@@ -31,22 +28,18 @@
 | 2024/05 ~ 06 | AWS CLF-C02 (AWS Certified Cloud Practitioner certificate) 취득 |
 | 2024/07 ~ 10 | 출산휴가 |
 
-  </div>
-</details>
-
 ## Project History
 
-### 경력기술요약 2023년 (현재 근무지~)
+<details>
+  <summary>경력기술요약 2023년 (현재 근무지~)</summary>
+  <div markdown="1">
+
 - FE : react, vue, next
 - BE : java, spring, gradle, sql spec의 pj 운영 & 개발
 - study : svelte, vue3, linux, k8s, css, chatGPT, aws, python3, mongodb
 - English : opic IH (02/04)
 - 교육 : AWS DevOps 09/18-09/20
 - 자격증 : sqld (10/06)
-
-<details>
-  <summary>프로젝트 이력 보기</summary>
-  <div markdown="1">
 
 
 | 기간              | 내용                                                         |
@@ -66,10 +59,9 @@
   </div>
 </details>
 
-### 경력기술요약 ~2022
 
 <details>
-  <summary>프로젝트 이력 보기</summary>
+  <summary>경력기술요약 ~2022</summary>
   <div markdown="1">
     
 | 기간              | 내용                                                         |
