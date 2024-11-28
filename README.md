@@ -30,6 +30,7 @@ hachu.developer@gmail.com
 | 2024/05 ~ 06 | AWS CLF-C02 (AWS Certified Cloud Practitioner certificate) 취득 |
 | 2024/06 ~ 07 | BE - 보안취약점 검토 및 개발 |
 | 2024/07 ~ 10 | 출산휴가 90일 |
+| 2024/11 | Azure Developing solutions for Microsoft Azure (AZ-204) |
 
 ## Project History
 
