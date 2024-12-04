@@ -29,8 +29,9 @@ hachu.developer@gmail.com
 | 2024/03 ~ 03 | spring boot version에 따른 batch 변경 |
 | 2024/05 ~ 06 | AWS CLF-C02 (AWS Certified Cloud Practitioner certificate) 취득 |
 | 2024/06 ~ 07 | BE - 보안취약점 검토 및 개발 |
-| 2024/07 ~ 10 | 출산휴가 90일 |
-| 2024/11 | Azure Developing solutions for Microsoft Azure (AZ-204) |
+| 2024/07 ~ 10 | 출산 & 복직 |
+| 2024/11 ~ 11 | Azure Developing solutions for Microsoft Azure (AZ-204) 교육 |
+| 2024/12 ~ 12 | BE : maven, tomcat 기반 PJ 운영 (소스 검토) / FE : vue3 PJ 개발 검토 |
 
 ## Project History
 
@@ -48,14 +49,14 @@ hachu.developer@gmail.com
 
 | 기간              | 내용                                                         |
 | ----------------- | ------------------------------------------------------------ |
-| 2023/12 ~ 01 | vanila js => react 16 으로 기가지니 서비스(키즈) 포팅 작업 |
+| 2023/12 ~ 01 | vanilla js => react 16 으로 기가지니 서비스(키즈) 포팅 작업 |
 | 2023/01 ~ 02 | FE - React, GiGa Genie 오류 수정 |
-| 2023/02 ~ 03 | BE - 리눅스(사용), 쿠버네티스(개념) 인강, 스터디 진행 중, GCMS db 구조 파악 |
+| 2023/02 ~ 03 | BE - 리눅스(사용), 쿠버네티스(개념) 인강, 스터디 진행 중, CMS db 구조 파악 |
 | 2023/02 ~ 05 | FE - Vue2, chatGPT, GiGA GENIE 연동 |
 | 2023/03 ~ 09 | [chatGPT, Deep Learning](https://openai-embedding-completion.vercel.app/) : Next/nodejs |
 | 2023/04 ~ 10 | 사내 개발 기술 코치 담당 : java/Vue3 |
 | 2023/02 ~ 06 | FE - Vue3 토이프로젝트로 프레임워크 구조 파악, vuetify 레이아웃 |
-| 2023/07 ~ 진행중 | python, flask로 간단한 웹서비스 구현 |
+| 2023/07 ~ 08 | python, flask로 간단한 웹서비스 구현 |
 | 2023/08 ~ 09 | sqld 자격증 취득 |
 | 2023/09 ~ 12 | BE 보안성 조치 <br> spring boot, wildfly, dependencies upgrade 처리 |
 | 2023/12 ~ 12 | FE - Vue 기가지니 웹앱 서비스 신규 개발 지원 |
