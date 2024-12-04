@@ -2,18 +2,17 @@
 hachu.developer@gmail.com
 
 ## Interest thing
-
-- coding 🖥
 - [searching & sharing](https://github.com/hachuu/developGuide) 🔍
+- [reading](https://pedia.watcha.com/ko-KR/users/87Gv7pR6D5E6o/contents/books) 📖
+- [writing](https://blog.naver.com/PostList.naver?blogId=money0621&from=postList&categoryNo=83) 📃
+- [watching a movie](https://pedia.watcha.com/ko-KR/users/87Gv7pR6D5E6o/contents/movies) 🎬
+- [cooking](https://www.instagram.com/hachu.u.u/) 🍳
 - keeping my journal/diary 📒
 - studying Something (english/dev/...) 📝
 - traveling ✈🚄
 - listening to music 🎶
-- [watching a movie](https://pedia.watcha.com/ko-KR/users/87Gv7pR6D5E6o/contents/movies) 🎬
-- [cooking](https://www.instagram.com/hachu.u.u/) 🍳
+- coding 🖥
 - tennis 🏸
-- [reading](https://pedia.watcha.com/ko-KR/users/87Gv7pR6D5E6o/contents/books) 📖
-- [writing](https://blog.naver.com/PostList.naver?blogId=money0621&from=postList&categoryNo=83) 📃
 - console game (Nintendo, PS5) 🎮 
 
 ## Web Development
