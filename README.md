@@ -24,26 +24,20 @@ hachu.developer@gmail.com
 
 | 기간              | 내용                                                         |
 | ----------------- | ------------------------------------------------------------ |
-| 2024/01 ~ 05 | 오픈소스 취약점 진단 수정 및 spring boot upgrade 작업 |
-| 2024/03 ~ 03 | spring boot version에 따른 batch 변경 |
-| 2024/05 ~ 06 | AWS CLF-C02 (AWS Certified Cloud Practitioner certificate) 취득 |
-| 2024/06 ~ 07 | BE - 보안취약점 검토 및 개발 |
-| 2024/07 ~ 10 | 출산 & 복직 |
-| 2024/11 ~ 11 | Azure Developing solutions for Microsoft Azure (AZ-204) 교육 |
-| 2024/12 ~ 12 | BE : maven, tomcat 기반 PJ 운영 (소스 검토) / FE : vue3 PJ 개발 검토 |
+| 2025/01 |                                          |
 
 ## Project History
 
 <details>
-  <summary>경력기술요약 2023년 (현재 근무지~)</summary>
+  <summary>경력기술요약 2023, 2024년 (현재 근무지~)</summary>
   <div markdown="1">
 
 - FE : react, vue, next
 - BE : java, spring, gradle, sql spec의 pj 운영 & 개발
 - study : svelte, vue3, linux, k8s, css, chatGPT, aws, python3, mongodb
-- English : opic IH (02/04)
-- 교육 : AWS DevOps 09/18-09/20
-- 자격증 : sqld (10/06)
+- English : opic IH (23/02/04)
+- 교육 : AWS DevOps 23/09/18-09/20 / Azure-204 24/11/25~24/11/27
+- 자격증 : sqld (23/10/06), AWS Practitioner(24/06/08)
 
 
 | 기간              | 내용                                                         |
@@ -59,7 +53,13 @@ hachu.developer@gmail.com
 | 2023/08 ~ 09 | sqld 자격증 취득 |
 | 2023/09 ~ 12 | BE 보안성 조치 <br> spring boot, wildfly, dependencies upgrade 처리 |
 | 2023/12 ~ 12 | FE - Vue 기가지니 웹앱 서비스 신규 개발 지원 |
-
+| 2024/01 ~ 05 | 오픈소스 취약점 진단 수정 및 spring boot upgrade 작업 |
+| 2024/03 ~ 03 | spring boot version에 따른 batch 변경 |
+| 2024/05 ~ 06 | AWS CLF-C02 (AWS Certified Cloud Practitioner certificate) 취득 |
+| 2024/06 ~ 07 | BE - 보안취약점 검토 및 개발 |
+| 2024/07 ~ 10 | 출산 & 복직 |
+| 2024/11 ~ 11 | Azure Developing solutions for Microsoft Azure (AZ-204) 교육 |
+| 2024/12 ~ 12 | BE : maven, tomcat 기반 PJ 운영 (소스 검토) / FE : vue3 PJ 개발 검토 |
   </div>
 </details>
 
