@@ -24,7 +24,14 @@ hachu.developer@gmail.com
 
 | 기간              | 내용                                                         |
 | ----------------- | ------------------------------------------------------------ |
-| 2025/01 |                                          |
+| 2025/01~ing |  Azure Static Web App 배포 & Portal 스터디  |
+| 2025/02~02 |  React & Opensearch 기반 Java 프로젝트 개발 지원 중  |
+| 2025/02~04 |  사내 역량향상형 과제 리딩 활동  |
+
+- FE : react, vue
+- BE : java, spring, gradle, sql spec의 pj 운영 & 개발
+- study : azure, k8s, ai
+- 자격증 : az-104 (25/02/17)
 
 ## Project History
 
