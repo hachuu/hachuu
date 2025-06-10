@@ -27,6 +27,7 @@ hachu.developer@gmail.com
 | 2025/01~ing |  Azure Static Web App 배포 & Portal 스터디  |
 | 2025/02~02 |  React & Opensearch 기반 Java 프로젝트 개발 지원 중  |
 | 2025/02~07 |  사내 역량향상형 과제 리딩 활동 (Azure + OPen AI )  |
+| 2025/06~08 |  기가지니 고도화 프로젝트 Node 기반 AI, Cloud 연동 개발 |
 | 2025/05~12 |  GiGAGenie PL 유지보수 |
 
 - FE : react, vue
